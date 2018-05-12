@@ -1,4 +1,4 @@
-body
+/* body
 {
   /* animation: pulse 1.5s infinite; */
 }
@@ -10,7 +10,7 @@ body
   100% {
     background-color: 00abcd;
   }
-}
+} */
 
 h1{
         text-align: center;
