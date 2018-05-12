@@ -5,4 +5,4 @@ year = currentDate.getFullYear();
 hour=currentDate.getHours;
 minute=currentDate.getMinutes;
 document.write(+month + "/" + day + "/" + year)
-document.write(+"/" +hour+"/"+minute+"/")
+// document.write(+"/" +hour+"/"+minute+"/")
